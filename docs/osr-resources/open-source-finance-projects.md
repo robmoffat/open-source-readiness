@@ -26,7 +26,7 @@ Are you finding the sheer amount of information on the internet daunting?
 
 ## Other Lists
 
-### Awesome Quant
+### Awesome Quant
 
 > A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
