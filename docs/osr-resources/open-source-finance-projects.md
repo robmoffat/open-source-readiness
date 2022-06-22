@@ -4,7 +4,7 @@ Feel free to drop us a PR and we'll mention yours too!
 
 ## Categories?
 
-### [Finance Database](https://github.com/JerBouma/FinanceDatabase)
+### Finance Database
 
 Are you finding the sheer amount of information on the internet daunting?
 
@@ -12,3 +12,4 @@ Are you finding the sheer amount of information on the internet daunting?
 
 >  It features 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets. It therefore allows you to obtain a broad overview of sectors, industries, types of investments and much more.
 
+[more here](https://github.com/JerBouma/FinanceDatabase)
