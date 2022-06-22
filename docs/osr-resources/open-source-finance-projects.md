@@ -4,6 +4,14 @@ Feel free to drop us a PR and we'll mention yours too!
 
 ## Categories?
 
+### Pandas TA
+
+A well-maintained Technical Analysis tool written for Python/Pandas, by [Kevin Johnson](https://github.com/twopirllc).
+
+> Pandas Technical Analysis (Pandas TA) is an easy to use library that leverages the Pandas package with more than 130 Indicators and Utility functions and more than 60 TA Lib Candlestick Patterns.
+
+[more here](https://github.com/twopirllc/pandas-ta)
+
 ### Finance Database
 
 Are you finding the sheer amount of information on the internet daunting?
