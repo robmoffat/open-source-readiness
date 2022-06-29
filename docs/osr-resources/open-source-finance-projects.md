@@ -23,3 +23,11 @@ Are you finding the sheer amount of information on the internet daunting?
 If you're looking for an exhaustive set of quant libraries (mainly across R and Python) then [Wilson Freitas](https://github.com/wilsonfreitas) has got you covered.
 
 [check it out](https://github.com/wilsonfreitas/awesome-quant)
+
+### Dash
+
+Dash is the most downloaded, trusted Python framework for building ML & data science web apps.
+
+Built on top of [Plotly.js](https://github.com/plotly/plotly.js), [React](https://reactjs.org/) and [Flask](https://palletsprojects.com/p/flask/), Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code. Read our tutorial (proudly crafted ❤️ with Dash itself).
+
+Check out Dash here ... https://github.com/plotly/dash
