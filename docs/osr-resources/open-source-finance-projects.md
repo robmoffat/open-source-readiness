@@ -47,3 +47,11 @@ This is a Python wrapper for [TA-LIB](http://ta-lib.org) based on Cython instead
 The original Python bindings included with TA-Lib use [SWIG](http://swig.org) which unfortunately are difficult to install and aren't as efficient as they could be. Therefore this project uses [Cython](https://cython.org) and [Numpy](https://numpy.org) to efficiently and cleanly bind to TA-Lib -- producing results 2-4 times faster than the SWIG interface.
 
 Check out TA-Lib here ... https://github.com/mrjbq7/ta-lib
+
+### Alpha Vantage
+
+Alpha Vantage delivers a free API for real time financial data and most used finance indicators in a simple json or pandas format.
+
+This module implements a python interface to the free API provided by [Alpha Vantage](https://www.alphavantage.co/). It requires a free API key, that can be requested from http://www.alphavantage.co/support/#api-key. You can have a look at all the API calls available in their [API documentation](https://www.alphavantage.co/documentation/).
+
+Check out Alpha Vantage here ... https://github.com/RomelTorres/alpha_vantage
