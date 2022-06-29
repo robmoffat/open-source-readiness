@@ -31,3 +31,19 @@ Dash is the most downloaded, trusted Python framework for building ML & data sci
 Built on top of [Plotly.js](https://github.com/plotly/plotly.js), [React](https://reactjs.org/) and [Flask](https://palletsprojects.com/p/flask/), Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code. Read our tutorial (proudly crafted ❤️ with Dash itself).
 
 Check out Dash here ... https://github.com/plotly/dash
+
+### TA-Lib
+
+This is a Python wrapper for [TA-LIB](http://ta-lib.org) based on Cython instead of SWIG.
+
+> TA-Lib is widely used by trading software developers requiring to perform
+> technical analysis of financial market data.
+>
+> - Includes 150+ indicators such as ADX, MACD, RSI, Stochastic, Bollinger
+>   Bands, etc.
+> - Candlestick pattern recognition
+> - Open-source API for C/C++, Java, Perl, Python and 100% Managed .NET
+
+The original Python bindings included with TA-Lib use [SWIG](http://swig.org) which unfortunately are difficult to install and aren't as efficient as they could be. Therefore this project uses [Cython](https://cython.org) and [Numpy](https://numpy.org) to efficiently and cleanly bind to TA-Lib -- producing results 2-4 times faster than the SWIG interface.
+
+Check out TA-Lib here ... https://github.com/mrjbq7/ta-lib
