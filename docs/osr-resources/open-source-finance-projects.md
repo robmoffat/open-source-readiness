@@ -22,7 +22,16 @@ Are you finding the sheer amount of information on the internet daunting?
 
 [more here](https://github.com/JerBouma/FinanceDatabase)
 
+### Ta-Lib
 
+A Python-based Technical Analysis tool.  See [Ta-Lib](https://ta-lib.org).
+
+> TA-Lib is widely used by trading software developers requiring to perform technical analysis of financial market data.
+> Includes 150+ indicators such as ADX, MACD, RSI, Stochastic, Bollinger Bands, etc.
+>  - Candlestick pattern recognition
+>  - Open-source API for C/C++, Java, Perl, Python and 100% Managed .NET
+
+[View The Project Here](https://github.com/mrjbq7/ta-lib)
 
 ## Other Lists
 
@@ -33,3 +42,4 @@ Are you finding the sheer amount of information on the internet daunting?
 If you're looking for an exhaustive set of quant libraries (mainly across R and Python) then [Wilson Freitas](https://github.com/wilsonfreitas) has got you covered.
 
 [check it out](https://github.com/wilsonfreitas/awesome-quant)
+
